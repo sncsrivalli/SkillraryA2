@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericUtilities.BaseClass;
 import genericUtilities.IConstantPath;
-
+//This test verifies if user is able to create Category
 public class AddCategoryTest extends BaseClass {
 
 	@Test
